@@ -1,0 +1,33 @@
+C:\Users\TAHA\Desktop\MyWorkSpace\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\bin\Debug\KahveEviSiparisUygulaması.exe.config
+C:\Users\TAHA\Desktop\MyWorkSpace\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\bin\Debug\KahveEviSiparisUygulaması.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\bin\Debug\KahveEviSiparisUygulaması.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.csproj.AssemblyReference.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.Form1.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.Properties.Resources.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.csproj.GenerateResource.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\3.Ağustos\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\bin\Debug\KahveEviSiparisUygulaması.exe.config
+C:\Users\TAHA\Desktop\MyWorkSpace\3.Ağustos\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\bin\Debug\KahveEviSiparisUygulaması.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\3.Ağustos\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\bin\Debug\KahveEviSiparisUygulaması.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\3.Ağustos\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.csproj.AssemblyReference.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\3.Ağustos\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\3.Ağustos\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.Form1.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\3.Ağustos\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.Properties.Resources.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\3.Ağustos\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.csproj.GenerateResource.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\3.Ağustos\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\3.Ağustos\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\3.Ağustos\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\3_Ağustos_2022\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\bin\Debug\KahveEviSiparisUygulaması.exe.config
+C:\Users\TAHA\Desktop\MyWorkSpace\3_Ağustos_2022\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\bin\Debug\KahveEviSiparisUygulaması.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\3_Ağustos_2022\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\bin\Debug\KahveEviSiparisUygulaması.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\3_Ağustos_2022\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.csproj.AssemblyReference.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\3_Ağustos_2022\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\3_Ağustos_2022\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.Form1.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\3_Ağustos_2022\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.Properties.Resources.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\3_Ağustos_2022\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.csproj.GenerateResource.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\3_Ağustos_2022\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\3_Ağustos_2022\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\3_Ağustos_2022\3 - 06.08.2022\KahveEviSiparisUygulaması\KahveEviSiparisUygulaması\obj\Debug\KahveEviSiparisUygulaması.pdb
